@@ -1,0 +1,12 @@
+
+h1{
+    color: chocolate;
+    font-style: italic;
+    font-size: large;
+}
+
+.mainArea{
+    background-color: #00CED1;
+     width: 80%;
+     height: 700px;
+}

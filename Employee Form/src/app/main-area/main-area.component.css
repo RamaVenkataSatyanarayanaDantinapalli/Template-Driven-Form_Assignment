@@ -1,0 +1,18 @@
+.container{
+    padding-left: 120px;
+}
+.eform{
+    padding-left: 550px;
+}
+span{
+    color:red;
+}
+#btn{
+    color:white;
+    background-color: blue;
+    font-size: 25px;
+
+}
+input[type=text],input[type=number]{
+    width: 50%;
+}
